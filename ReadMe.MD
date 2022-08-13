@@ -8,4 +8,4 @@
 <!-- ![Chappmon](./Chapmon.png) -->
 <strong>Objetivo<strong>
 <br/>
-<span>- Criar um site para simular compra e venda de ações, projeto realizado a partir dos conhecimentos adquiridos no curso da Cod3r!</span>
+<span>- Criar um site para simular compra e venda de ações, sendo ele realizado a partir dos conhecimentos adquiridos no curso da Cod3r!</span>
