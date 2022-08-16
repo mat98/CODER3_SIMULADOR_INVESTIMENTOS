@@ -6,6 +6,6 @@
     <img alt="chappmon" width="33%" src="https://github.com/mat98/VUEJS-COD3RSTOCKS/blob/main/Chapmon.png"> 
 </p>
 <!-- ![Chappmon](./Chapmon.png) -->
-<strong>Objetivo<strong>
+<span>Objetivo<span>
 <br/>
 <span>- Criar um site para simular compra e venda de ações, sendo ele realizado a partir dos conhecimentos adquiridos no curso da Cod3r!</span>
