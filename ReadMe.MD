@@ -1,6 +1,6 @@
-# 📈 Stock Trading Simulator 🇺🇸 / Simulador de Compra e Venda de Ações 🇧🇷
+# 📈 Stock Trading Simulator / Simulador de Compra e Venda de Ações
 
-## ENG 🇺🇸  
+## ENG
 This is a stock trading simulator where users can simulate buying and selling stocks using fictitious data. The goal of the project is to allow investors to practice and analyze their strategies without financial risk.  
 
 ### 🚀 Features  
@@ -12,7 +12,7 @@ This is a stock trading simulator where users can simulate buying and selling st
 
 ---
 
-## PT/BR 🇧🇷  
+## PT/BR
 Este é um simulador de compra e venda de ações, onde os usuários podem simular operações no mercado financeiro utilizando dados fictícios. O objetivo do projeto é permitir que investidores pratiquem e analisem suas estratégias sem risco financeiro.  
 
 ### 🚀 Funcionalidades  
